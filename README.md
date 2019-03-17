@@ -17,13 +17,13 @@ Indicators:
 
 Classifiers:
 - Suport Vector Machine: 
-    SVC kernels:
+    - SVC kernels:
         - linear (sklearn an tensorflow)
         - gaussian (sklearn an tensorflow)
         - rbf (sklearn)
         - sigmoid (sklearn)
 - Neighbors:
-    -KNeighborsClassifier (sklearn)
+    - KNeighborsClassifier (sklearn)
 - Naive Bayes:
     - GaussianNB (sklearn)
 - Linear model:
