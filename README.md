@@ -1,10 +1,10 @@
-# ML-for-stock-market
-This code make some indicators and prices in Brazil stock market to test classifiers (from sklearn and tensor flow) to predict the increases.
+# Machine Learn for Stock Markets
+This code make some indicators and prices in Brazil stock market to test classifiers (from sklearn and tensor flow) predicting short-term price movement.
 
-Predition:
-Will the price will rise more than 3% in the next 4 days?
+### Prediction:
+**Will the price will rise more than 3% in the next 4 days?**
 
-Indicators:
+### Indicators:
 - High Low activator
 - Up or down compared to a arithmetic moving average
 - stocastic moment
@@ -15,7 +15,7 @@ Indicators:
 - Variation in volume of negociations 
 - Relative Strength Index
 
-Classifiers:
+### Classifiers:
 - Suport Vector Machine: 
     - SVC kernels:
         - linear (sklearn an tensorflow)
@@ -29,9 +29,9 @@ Classifiers:
 - Linear model:
     - Stochastic Gradient Descent [SGDClassifier] (sklearn)
 
-03/2019
-Python 3 
-sklearn
-tensorflow
-pandas
-numpy
+ ### Date:03/2019
+- Python 3 
+- sklearn
+- tensorflow
+- pandas
+- numpy
